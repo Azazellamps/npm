@@ -1,0 +1,20 @@
+{
+  "name": "azazel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "eslint": "eslint",
+    "prettier": "prettier"
+  },
+  "author": "meteleva",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^8.46.0",
+    "prettier": "^3.0.3"
+  },
+  "devDependencies": {
+    "cypress": "^13.2.0"
+  }
+}
